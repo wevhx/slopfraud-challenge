@@ -1,6 +1,7 @@
 # me vs K
 
-build something viral in span of 2 weeks deadline 15 december
+build something viral in span of 2 weeks  
+deadline 15 december
 
 rule:
 - no bot
